@@ -1,0 +1,36 @@
+body {
+  font-family: montserrat;
+}
+img {
+  width: 40px;
+  height: auto;
+  display: inline-block;
+  text-align: center;
+}
+
+.notificacion {
+  border-radius: 20px;
+  border: 2px solid rgb(173, 172, 172);
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+  padding: 30px;
+  display: inline-block;
+  box-sizing: content-box;
+  box-shadow: 0 0 15px rgb(182, 181, 181);
+}
+
+.boton {
+  display: inline-block;
+  text-align: center;
+  padding: 15px 25px;
+  border: 2px solid rgb(247, 142, 177);
+  border-radius: 8px;
+  background-color: rgba(255, 169, 184, 0.863);
+  height: 30px;
+  width: 70px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  font-size: large;
+}
